@@ -665,8 +665,8 @@ video {
   background-color: rgb(17 24 39 / var(--tw-bg-opacity));
 }
 
-.bg-\[url\(\'\.\.\/root\/images\/background\.jpg\'\)\] {
-  background-image: url('../root/images/background.jpg');
+.bg-\[url\(\'\.\.\/images\/background\.jpg\'\)\] {
+  background-image: url('../images/background.jpg');
 }
 
 .p-2 {
